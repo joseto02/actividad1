@@ -1,0 +1,23 @@
+.titulo {
+    color: blue;
+    text-align: center;
+}
+
+.titulo p {
+    color: black;
+    text-align: center;
+}
+
+.integrantes {
+    text-align: center;
+}
+
+.integrantes ul {
+    display: inline-block;
+    text-align: left;
+    list-style-position: inside;
+}
+
+div{
+    text-align: center;
+}
